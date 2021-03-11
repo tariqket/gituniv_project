@@ -1,0 +1,9 @@
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\bin\Debug\cocomoCalculator.exe.config
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\bin\Debug\cocomoCalculator.exe
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\bin\Debug\cocomoCalculator.pdb
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.csprojResolveAssemblyReference.cache
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.FormMain.resources
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.Properties.Resources.resources
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.csproj.GenerateResource.Cache
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.exe
+C:\Users\GAMER\Desktop\cocomoCalculator\cocomoCalculator\obj\Debug\cocomoCalculator.pdb
